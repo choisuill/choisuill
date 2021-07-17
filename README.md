@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 
 
-
-
+</br>
+</br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
+</br>
 <p align="center"> Techs that I've used at least once </p>
-
+</br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Html-e34f26?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp;
@@ -40,5 +40,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp;
 </p>
-
+</br>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisuill)](https://github.com/anuraghazra/github-readme-stats)
